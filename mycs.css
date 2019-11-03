@@ -1,0 +1,42 @@
+.main
+{
+	height:100%;
+	width:100%;
+}
+.left
+{
+	background-color: red;
+	background-image: url('IMG_3085.jpg');
+	background-size: cover;
+	height:100%;
+	width:50%;
+	float:left;
+}
+.right
+{
+	background-color: #0C0C0C;
+	height:100%;
+	width:50%;
+	float:left;
+	overflow: scroll;
+
+}
+.content
+{
+	margin-top: 25%;
+	padding-left:30px;
+
+}
+.about
+{
+	margin-top:15%;
+	padding-left:30px;
+
+}
+.internship,.education,.project,.certificate
+{
+	margin-top:10%;
+	padding-left:30px;
+
+}
+
